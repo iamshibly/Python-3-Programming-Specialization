@@ -1,0 +1,5 @@
+print("a" in "apple")
+print('pp' in "apple")
+print(5 not in [0,1,2,3,4,5,6])
+print('joss' in ("apa", 5 , 7 , "joss"))
+print('a' not in ["aya"])
